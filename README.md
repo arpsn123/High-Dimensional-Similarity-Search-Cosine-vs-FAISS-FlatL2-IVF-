@@ -250,3 +250,9 @@ jupyter notebook Cosine_Similarity_vs_FAISS-INDEXFLATL2_vs_FAISS-INDEXIVF.ipynb
 
 ---
 
+
+**Acknowledgment**
+
+This project draws significant inspiration from Sreenivas Bhattiprolu's YouTube tutorials on image processing and segmentation techniques. His clear explanations and methodical teaching style laid a strong foundation for the theoretical and practical understanding required for this implementation.
+
+I sincerely thank him for making such valuable content freely accessible, which greatly accelerated my grasp of classical computer vision techniques such as watershed segmentation, distance transform, and contour-based localization.
