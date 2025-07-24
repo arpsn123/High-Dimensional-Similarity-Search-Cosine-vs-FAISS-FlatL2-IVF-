@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/github/languages/count/arpsn123/High-Dimensional-Similarity-Search-Cosine-vs-FAISS-FlatL2-IVF-?style=for-the-badge&logo=github&logoColor=white&color=607d8b" alt="GitHub Language Count">
+<!--     <img src="https://img.shields.io/github/languages/count/arpsn123/High-Dimensional-Similarity-Search-Cosine-vs-FAISS-FlatL2-IVF-?style=for-the-badge&logo=github&logoColor=white&color=607d8b" alt="GitHub Language Count"> -->
     <img src="https://img.shields.io/github/languages/top/arpsn123/High-Dimensional-Similarity-Search-Cosine-vs-FAISS-FlatL2-IVF-?style=for-the-badge&logo=github&logoColor=white&color=4caf50" alt="GitHub Top Language">
 </div>
 
