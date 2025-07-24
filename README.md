@@ -1,3 +1,29 @@
+<div align="center">
+    <img src="https://img.shields.io/github/stars/arpsn123/High-Dimensional-Similarity-Search-Cosine-vs-FAISS-FlatL2-IVF-?style=for-the-badge&logo=github&logoColor=white&color=ffca28" alt="GitHub Repo Stars">
+    <img src="https://img.shields.io/github/forks/arpsn123/High-Dimensional-Similarity-Search-Cosine-vs-FAISS-FlatL2-IVF-?style=for-the-badge&logo=github&logoColor=white&color=00aaff" alt="GitHub Forks">
+    <img src="https://img.shields.io/github/watchers/arpsn123/High-Dimensional-Similarity-Search-Cosine-vs-FAISS-FlatL2-IVF-?style=for-the-badge&logo=github&logoColor=white&color=00e676" alt="GitHub Watchers">
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/github/issues/arpsn123/High-Dimensional-Similarity-Search-Cosine-vs-FAISS-FlatL2-IVF-?style=for-the-badge&logo=github&logoColor=white&color=ea4335" alt="GitHub Issues">
+    <img src="https://img.shields.io/github/issues-pr/arpsn123/High-Dimensional-Similarity-Search-Cosine-vs-FAISS-FlatL2-IVF-?style=for-the-badge&logo=github&logoColor=white&color=ff9100" alt="GitHub Pull Requests">
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/github/last-commit/arpsn123/High-Dimensional-Similarity-Search-Cosine-vs-FAISS-FlatL2-IVF-?style=for-the-badge&logo=github&logoColor=white&color=673ab7" alt="GitHub Last Commit">
+    <img src="https://img.shields.io/github/contributors/arpsn123/High-Dimensional-Similarity-Search-Cosine-vs-FAISS-FlatL2-IVF-?style=for-the-badge&logo=github&logoColor=white&color=388e3c" alt="GitHub Contributors">
+    <img src="https://img.shields.io/github/repo-size/arpsn123/High-Dimensional-Similarity-Search-Cosine-vs-FAISS-FlatL2-IVF-?style=for-the-badge&logo=github&logoColor=white&color=303f9f" alt="GitHub Repo Size">
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/github/languages/count/arpsn123/High-Dimensional-Similarity-Search-Cosine-vs-FAISS-FlatL2-IVF-?style=for-the-badge&logo=github&logoColor=white&color=607d8b" alt="GitHub Language Count">
+    <img src="https://img.shields.io/github/languages/top/arpsn123/High-Dimensional-Similarity-Search-Cosine-vs-FAISS-FlatL2-IVF-?style=for-the-badge&logo=github&logoColor=white&color=4caf50" alt="GitHub Top Language">
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Maintenance-%20Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Maintenance Status">
+</div>
+
 
 # 🔍 Cosine Similarity vs FAISS: IndexFlatL2 vs IndexIVF
 
